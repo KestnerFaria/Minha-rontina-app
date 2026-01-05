@@ -1,0 +1,5 @@
+
+body{margin:0;font-family:Arial}
+.dark{background:#020617;color:white;min-height:100vh;padding:20px}
+.light{background:#f8fafc;color:#020617;min-height:100vh;padding:20px}
+header{display:flex;justify-content:space-between}

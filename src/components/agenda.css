@@ -1,0 +1,7 @@
+
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(140px,1fr));gap:12px}
+.day-card{background:rgba(255,255,255,.05);padding:10px;border-radius:16px}
+.event{display:flex;justify-content:space-between;align-items:center;border-radius:8px;padding:6px;margin:4px 0}
+.study{background:#2563eb}.work{background:#334155}.gym{background:#16a34a}.volei{background:#7c3aed}
+.modal{position:fixed;inset:0;background:rgba(0,0,0,.6);display:flex;align-items:center;justify-content:center}
+.modal form{background:#020617;padding:20px;border-radius:16px;width:90%;max-width:320px}
